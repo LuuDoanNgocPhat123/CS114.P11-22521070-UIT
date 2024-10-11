@@ -38,8 +38,8 @@
 - **Sinh viên khoá**: K17
 - **Trường** : Đại học Công Nghệ Thông Tin
 - **Email**: 22521070@gm.uit.edu.vn
-- **Sở thích** : Nghe nhạc , tìm kiếm những công cụ liên quan tới data science và team work
-- **Công việc hướng tới** : Data Analyst , Data Scientist
+- **Sở thích** : Nghe nhạc , tìm kiếm những công cụ liên quan tới **Data Science** và team work
+- **Công việc hướng tới** : **Data Analyst** , **Data Scientist**
 
 ## 👨‍👩‍👧‍👦 THÔNG TIN THÀNH VIÊN
 
